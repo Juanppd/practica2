@@ -1,4 +1,0 @@
-﻿  315086052_REPORTE_GPO8.cpp
-W:\documentos\Semestre 2022-1\computación grafica\LabCG\Practica1\practica1\315086052_REPORTE_GPO8.cpp(100,2): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-  practica1.vcxproj -> W:\documentos\Semestre 2022-1\computación grafica\LabCG\Practica1\Debug\practica1.exe
